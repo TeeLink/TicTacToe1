@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe1", "TicTacToe1\TicTacToe1.csproj", "{645859F9-2F87-4D7D-A0BE-9AFF2DA52892}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication6", "..\..\Users\Tee Link\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.csproj", "{D89D74CE-3737-4D8F-9117-008AF4D54EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3", "..\Day3\Day3.csproj", "{93585D2E-9A93-4AC3-B631-5183F95D212E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{645859F9-2F87-4D7D-A0BE-9AFF2DA52892}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{645859F9-2F87-4D7D-A0BE-9AFF2DA52892}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{645859F9-2F87-4D7D-A0BE-9AFF2DA52892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89D74CE-3737-4D8F-9117-008AF4D54EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89D74CE-3737-4D8F-9117-008AF4D54EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89D74CE-3737-4D8F-9117-008AF4D54EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89D74CE-3737-4D8F-9117-008AF4D54EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93585D2E-9A93-4AC3-B631-5183F95D212E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93585D2E-9A93-4AC3-B631-5183F95D212E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93585D2E-9A93-4AC3-B631-5183F95D212E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93585D2E-9A93-4AC3-B631-5183F95D212E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

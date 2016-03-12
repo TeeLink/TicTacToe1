@@ -33,7 +33,7 @@ namespace TicTacToe1
 
                 Random turn = new Random();
                 int robotTurn = turn.Next(0, 8);
-                string robotInput = robotTurn;
+                int robotInput = robotTurn;
                 if (currentPlayer == 'o')
                 {
                     move = (robotTurn);
@@ -91,9 +91,10 @@ namespace TicTacToe1
                     
                 }
 
-                if(isFull=true)
+                if (isFull)
                 {
                     Console.WriteLine("TIE");
+                    break;
 
                 }
 
